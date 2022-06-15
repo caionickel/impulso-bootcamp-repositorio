@@ -1,0 +1,13 @@
+-> Modem
+	-> Modulator-demodulator
+	-> Hardware que converte dados em um formato que pssa ser transmitido de um computador para outro
+e lido por outro
+
+-> Roteador
+	-> Distribui internet para um ou mais dispositivos em uma rede
+	-> Atua como despachante, escolhendo o melhor caminho para que as informações viajem
+de modo que sejam recebidas rapidamente.
+
+-> Switch
+	-> Distribui rede para um ou mais dispositivos
+	-> Dispositivo responsável pela comunicação entre os seus dispositivos na rede privada

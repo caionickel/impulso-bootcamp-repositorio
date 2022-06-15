@@ -1,0 +1,7 @@
+O Gmail costuma usar portas próprias, que não são as padrões de SMTP e POP3. Tente descobrir quais são.
+R:  SSL: 465Porta para TLS/STARTTLS: 587
+
+O programador que trabalha com a internet costuma usar bancos de dados, como o MySQL, e, claro, servidor web, como Apache.
+Que tal você se adiantar e ja descobrir quais as portas usadas por estes sistemas?
+R: MySQL: 3306 por padrão
+Apache: Porta 80

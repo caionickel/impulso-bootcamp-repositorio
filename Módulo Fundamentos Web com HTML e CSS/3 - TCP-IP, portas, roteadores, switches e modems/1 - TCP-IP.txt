@@ -1,0 +1,20 @@
+O que é TCP/IP?
+
+-> Protocolos de comunicação entre computadores em rede
+	-> Transmission Control Protocol - Protocolo de Controle de Transmissão
+	-> Internet Protocol -> Protocolo de Internet
+-> Modelo de camadas
+	-> 4 Camadas
+		1. Física (ex: placa de rede)
+		2. Rede (ex: IP)
+		3. Transporte (ex: TCP, UDP)
+		4. Aplicação (ex: FTP, SMTP, HTTP)
+
+-> UDP
+	-> Rápido
+	-> Não confiável (pois não tem confirmação de envio e nem de recebimento)
+
+-> TCP
+	-> Voltado à conexão
+	-> Integridade, ordem dos dados
+	-> "Handshake"

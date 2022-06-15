@@ -1,0 +1,9 @@
+Portas (ports)
+
+-> As portas são onde os dados sairão e chegarão no dispositivo
+	-> 20: FTP -> apenas para envio de arquivos
+	-> 22: SSH -> Conexão segura entre computadores
+	-> 25: SMTP -> Envio de emails
+	-> 53: DNS -> tradutor de nome para IP e vice-versa
+	-> 80: HTTP -> requisição na internet
+	-> 443: HTTPS -> requisição segura na internet
