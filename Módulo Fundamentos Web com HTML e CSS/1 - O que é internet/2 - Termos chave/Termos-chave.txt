@@ -1,0 +1,39 @@
+Download -> baixar arquivos
+Upload -> subir arquivos
+Navegador/browser -> auxilia a navegar pelos sites
+Banda larga -> tipo de conexão com a internet
+Cache -> arquivos salvos no computador para não ser carregado por inteiro posteriormente
+Crack -> uma forma de piratear algo através de chave falsa
+email -> sigla para eletronic email - correio eletrônico
+emoticons/emoji -> formas de expressão através de símbolos/imagens
+gif/jpg/png -> tipos de arquivos de imagens - jpg comprimi muito e png permite uma melhor qualidade
+host -> Espécie de servidor
+HTML -> linguagem de marcação da internet
+HTTP -> protocolo utilizado na internet
+Ícone -> figura representativa de algo
+Link -> um trecho de texto em destaque que ao ser clicado aciona novo hiperdocumento
+login/logon -> é o termo que é usado para entrar em um site
+logout/logoff -> desligar
+mp3 -> tipo de arquivo de som
+multimidia -> algo que executa vários tipos ao mesmo tempo, jpg, mp3, video etc
+nick -> apelido online
+online/offline - conectado e desconectado
+Pixel -> Picture + Element - cada quadrado/elemento da imagem
+Spam -> informação massiva com objetivo de alcançar o maior numero de pesssoas
+vírus -> todo software malicioso com objetivo de causar algum tipo de dano
+keylogger -> software malicioso que captura tudo o que o usuário digita
+phishing -> onde o golpista tem  intenção de capturar dados enganando o usuário
+backup -> arquivo guardado de algo, cópia de segurança dos dadoos
+blog -> espécie de diário online
+vlog -> espécie de diário em forma de vídeo
+(cyber)bullying -> ameaças, xingamentos, exposições agressivas contra alguém
+3G/4G/5G -> velocidades da internet móvel
+cookies -> pequenos registros da nossa atividades que podeem ser utilizados por outros sites
+firewall -> parede cuja função é impedir acesso indevido no seu computador
+hacker -> pessoa maliciosa/não maliciosa que entende muito de técnologia/programação
+IP -> endereço númerico de qualquer coisa no computador
+click bait -> notícias cuja função é tão chamativa que faz você clicar nela
+fake news -> notícias falsas que se passam por verdade, boatos
+podcast -> conversa estilo rádio online, geralmente em formato de audio e video
+pop-up -> janela que abre com alguma informação
+youtuber -> pessooa que trabalha criando videos para a internet
