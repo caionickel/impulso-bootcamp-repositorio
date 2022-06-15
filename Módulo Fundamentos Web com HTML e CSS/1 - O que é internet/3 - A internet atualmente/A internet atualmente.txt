@@ -1,0 +1,45 @@
+Números
+- 134 milhões de brasileiros tem acesso à internet (75%)
+	- Há 10 anos, apenas 41%
+- Mulheres: 74% / Homens 73%
+- Área Urbana: 77%/ Rural: 53%
+- 97% das pessoas com ensino superior acessam a internet
+- 16% das pessoas analfabetas ou com ensino infantil acessam a internet
+- Menos de 1 Salario minimo: 61% / 3-5 SM: 86% / 10+ SM: 94%
+- Empregados: 81% / Desempregados: 64%
+
+Dispositivos
+- Smartphones/Tablets: 99% (2014: 56%)
+- Computadores: 42% (2014: 80%)
+- TV: 37%
+- Vide-games: 9%  (acho que é uma informação equivocada e falsa)
+
+Frequência de acesso
+- Todo dia: 90%
+- Pelo menos uma vez por semana: 9%
+- Pelo menos uma vez por mês: 2%
+
+Recursos
+- Whatsapp, Skype, Messenger: 92%
+- Facebook, Snapchat: 76%
+- Chamada de video por Skype ou Whatsapp: 73%
+- Serviços eletronicos: 68%
+- Envio de emails: 58%
+- Compras: 39%
+- Listas ou fórums: 11%
+
+Buscas
+- Produtos e serviços: 59%
+- Saúde: 47%
+- Pesquisas escolares: 41%
+- Estudo por conta própria: 40%
+- Transações financeiras: 33%
+- Trabalho: 33%
+- Viagens: 31%
+- Armazenamento de dados: 28%
+
+Atualmente na pandemia
+- 112% de aumento do começo até agora
+- 40 a 50% maioor do que no mesmo periodo de 2019
+- Vm de download: 21,9 Mpbs (-10 mbps em março)/ upload: 14,8 mpbs/ latência: 27,7 ms
+
