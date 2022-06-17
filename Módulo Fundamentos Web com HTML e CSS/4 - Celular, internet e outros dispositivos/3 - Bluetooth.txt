@@ -1,0 +1,14 @@
+Bluetooth
+
+- Conexão ponto-a-ponto
+
+Classe 1: 100mW - 100m
+Classe 2: 2,5mW - 10m
+Classe 3: 1mW - 1m
+
+Versões:
+1.2 -> 1Mbps
+2.0+EDR -> 3 Mpbs
+3.0 -> 24 Mpbs
+4.0 -> 25 Mpbs
+5.0 -> 50 Mpbs

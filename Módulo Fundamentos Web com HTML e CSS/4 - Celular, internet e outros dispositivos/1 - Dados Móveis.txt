@@ -1,0 +1,17 @@
+Quanto custa para uma operadora de telefonia móvel, enviar um SMS?
+R: Nada
+
+O celular troca, naturalmente, alguns bits com as torres de comunicação
+- Ping pong
+
+- MMS (Transmissão de mensagens multimidia)
+
+Conexões Móveis
+
+- 1G (analógico): 10kbps
+- 2G (digital) GSM (Global System for Mobile Communication): 97 kbps
+- GPRS (General Pocket Radio Service) 2,5G: 32-80kpbs - dados + voz
+- EDGE (Enhanced Data Rates for GSM Evolution) 2,75G: 128 a 236kbps
+- 3G (7mbps)
+- 4G (22,1Mpbs)
+- 5G (10Gbps)
