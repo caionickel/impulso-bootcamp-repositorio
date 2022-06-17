@@ -1,0 +1,16 @@
+Webserver
+
+- Existem dois tipos: estático e dinâmico
+	- O estático é um servidor fisico onde estãoo armazenados arquivos, softwares e bancos de dados
+	- o dinâmico se refere aos softwares que estão presentes no servidor físico
+		- Arquivos (file server)
+		- Aplicações (application server)
+		- Banco de dados (database)
+		- Podem ser tudo junto e misturado
+		- Um site, ou aplicativo, precisa estar hospedado em um servidor para poder ser acessado
+		- Os dados de um siste prepcisam estar em um servidor
+		- O banco de dados de um site ou aplicativo preciosa estar em um servidor
+
+Web-service
+
+- Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis (Correios, Governo, etc)

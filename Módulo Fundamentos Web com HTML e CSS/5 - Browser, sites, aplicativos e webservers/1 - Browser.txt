@@ -1,0 +1,12 @@
+Browser
+
+- Um programa que interpreta as linguagens e programação e as transforma em algo
+compreensível por um humano.
+
+- Sabe identificar várias linguagens de programação, linguagens de marcação e conteúdo
+multimídia;
+- Existem plugu-ins, add-ons que ajudam na navegação
+- Utilizam cache e cookies
+
+
+- Página estática x dinâmica
