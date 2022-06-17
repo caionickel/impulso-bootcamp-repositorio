@@ -1,0 +1,20 @@
+Definição
+
+- Criado por Tim Berners-Lee
+- 5 Versões
+	-HTML 1 -> 1991
+	- HTML 2 -> 1995
+	- HTML 3 -> 1997
+	- HTML 4 -> 1997
+	- HTML 5 -> 2014
+
+Estrutura Básica
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta>
+	<title></title> 
+	</head>
+	<body>
+	</body>
+</html>
