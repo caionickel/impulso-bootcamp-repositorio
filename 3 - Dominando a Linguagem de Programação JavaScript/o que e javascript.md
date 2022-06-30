@@ -22,3 +22,10 @@
 -   Games
 -   Internet of Things
 -   APIs
+
+## Frameworks e bibliotecas
+
+-   Vue.JS
+-   Angular
+-   React
+-   jQuery
