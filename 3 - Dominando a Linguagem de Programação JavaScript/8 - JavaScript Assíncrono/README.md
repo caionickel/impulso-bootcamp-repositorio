@@ -17,7 +17,8 @@
 
 ### Promises - manipulação
 
-```const myPromise = new Promise((resolve, reject) => {window.setTimeout(() => { resolve('Resolvida')}, 2000)
+```
+const myPromise = new Promise((resolve, reject) => {window.setTimeout(() => { resolve('Resolvida')}, 2000)
 })
 
 await myPromise.then((result) => result + ' passando pelo then')
@@ -43,4 +44,51 @@ await myPromise.then((result) => result + ' passando pelo then')
 
         return resolved
     }
+```
+
+# Definição API
+
+## O que são APIS?
+
+-   Aplication Programming Interface
+    -   Uma API é uma forma de intermediar os resultados do back-end com o que é apresentado no front-end;
+    -   É possível acessá-la por meio doe URLS;
+    -   É muito comum que APIs retornem seus dados no formato .json, portanto preciamos tratar esses dados quando os recebermos;
+    -   JSON -> JavaScript Object Notation;
+
+## Fetch
+
+### Consumindo APIs
+
+```
+fetch(url, options)
+    .then(response => response.json())
+    .then(json => console.log(json))
+
+// retorna uma Promise
+```
+
+Operações no banco (POST, GET, PUT, DELETE, etc)
+
+```
+fetch('https://endereco-api.com/', {
+    method: 'GET',
+    cache: 'no-cache',
+})
+    .then(response => response.json())
+    .then(json => console.log(json))
+
+// retorna uma Promise
+```
+
+```
+fetch('https://endereco-api.com/', {
+    method: 'POST',
+    cache: 'no-cache',
+    body: JSON.stringify(data)
+})
+    .then(response => response.json())
+    .then(json => console.log(json))
+
+// retorna uma Promise
 ```
