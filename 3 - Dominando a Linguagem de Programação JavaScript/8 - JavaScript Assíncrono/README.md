@@ -17,7 +17,8 @@
 
 ### Promises - manipulação
 
-```const myPromise = new Promise((resolve, reject) => {window.setTimeout(() => { resolve('Resolvida')}, 2000)
+```
+const myPromise = new Promise((resolve, reject) => {window.setTimeout(() => { resolve('Resolvida')}, 2000)
 })
 
 await myPromise.then((result) => result + ' passando pelo then')
