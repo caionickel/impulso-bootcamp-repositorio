@@ -46,7 +46,7 @@ Ex: Veículo -> Veículo de rodas -> carro
 
 ## Protótipos
 
-Todos os objetos Javascript herdam proprieddes e métodos de um prototype. O objeto Object.protoype está no topo desta cadeia.
+Todos os objetos Javascript herdam propriedades e métodos de um prototype. O objeto Object.protoype está no topo desta cadeia.
 
 ## Classes
 
